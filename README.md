@@ -50,14 +50,5 @@ Resultado: Acceso rechazado por políticas de /usr/sbin/nologin.
 🚀 Script de Automatización
 Se adjunta el archivo setup_sftp.sh para el despliegue automatizado de usuarios, permisos y reglas de hardening en sistemas basados en Debian/Kali Linux.
 
----
-
-   * `evidence-permissions-chroot.png
-
-
-   * `evidence-sftp-success.png`
-
-
-   * `evidence-ssh-denied.png`
 
 
