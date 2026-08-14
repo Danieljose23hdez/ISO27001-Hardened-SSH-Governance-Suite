@@ -52,8 +52,6 @@ Se adjunta el archivo setup_sftp.sh para el despliegue automatizado de usuarios,
 
 ---
 
-## 🛠️ ¿Cómo subir las fotos en GitHub?
-
 1. En tu repositorio, crea la carpeta `img` (o cuando subas los archivos, GitHub te deja seleccionar la carpeta).
 2. Sube las 3 fotos asegurándote de que tengan **los mismos nombres que pusimos en la tabla**:
    * `evidence-permissions-chroot.png
@@ -62,5 +60,6 @@ Se adjunta el archivo setup_sftp.sh para el despliegue automatizado de usuarios,
    * `evidence-sftp-success.png`
 <img width="727" height="406" alt="image" src="https://github.com/user-attachments/assets/646e1af4-2c43-4691-a324-4edf62447da2" />
 
-   * `evidence-ssh-denied.png` <img width="644" height="452" alt="image" src="https://github.com/user-attachments/assets/ffb080a3-51ea-40db-b9c0-8b804528d8d9" />
+   * `evidence-ssh-denied.png`
+ <img width="644" height="452" alt="image" src="https://github.com/user-attachments/assets/ffb080a3-51ea-40db-b9c0-8b804528d8d9" />
 
